@@ -1,0 +1,19 @@
+body{
+	background: black	;
+}
+*{
+ margin: 0;
+ font-family: Arials;
+ border: border-box;
+ }
+ .header{
+ 	height: 200px;
+ 	width: 500px;
+ 	color: royalblue;
+    font-size: 2rem;
+ 	 	
+ }
+div{
+	height: 100px;
+	width: 100px;
+}
